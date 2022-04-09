@@ -1,19 +1,9 @@
-# ninja_reaction_timer
+# Simple reaction timer #
 
-## Project setup
-```
-npm install
-```
+## Technology stack ##
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* Vue.js;
+* Html;
+* Css.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## [DEMO](https://billizane.github.io/ninja_reaction_timer/) ##
